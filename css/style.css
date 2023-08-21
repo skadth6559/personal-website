@@ -231,8 +231,8 @@ body {
 }
 
 .home-sci {
-    position: absolute;
-    bottom: 40px;
+    /*position: absolute;
+    bottom: 40px;*/
     width: 215px;
     display: flex;
     justify-content: space-between;
